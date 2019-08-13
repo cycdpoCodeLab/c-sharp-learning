@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsConsoleWebapiclien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsInheritance", "TutorialsInheritance\TutorialsInheritance.csproj", "{E19F14A3-503C-4415-86E0-54EDAFE7C370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsWorkingWithLinq", "TutorialsWorkingWithLinq\TutorialsWorkingWithLinq.csproj", "{69889450-99FB-46DA-A47C-6A5DCBB01AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsAttributes", "TutorialsAttributes\TutorialsAttributes.csproj", "{041A7BF7-26EC-4210-8D48-C9C96BC0A6F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{E19F14A3-503C-4415-86E0-54EDAFE7C370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E19F14A3-503C-4415-86E0-54EDAFE7C370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E19F14A3-503C-4415-86E0-54EDAFE7C370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69889450-99FB-46DA-A47C-6A5DCBB01AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69889450-99FB-46DA-A47C-6A5DCBB01AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69889450-99FB-46DA-A47C-6A5DCBB01AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69889450-99FB-46DA-A47C-6A5DCBB01AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041A7BF7-26EC-4210-8D48-C9C96BC0A6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041A7BF7-26EC-4210-8D48-C9C96BC0A6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041A7BF7-26EC-4210-8D48-C9C96BC0A6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041A7BF7-26EC-4210-8D48-C9C96BC0A6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
