@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsAttributes", "Tuto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorialsFirstWebApi", "TutorialsFirstWebApi\TutorialsFirstWebApi.csproj", "{0AA0B2AB-44AE-432E-AF08-C3572E4D47A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoPets.Api", "ContosoPets.Api\ContosoPets.Api.csproj", "{326A3B3A-F8FE-4B59-8DE2-721D8CCE1A94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{0AA0B2AB-44AE-432E-AF08-C3572E4D47A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA0B2AB-44AE-432E-AF08-C3572E4D47A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA0B2AB-44AE-432E-AF08-C3572E4D47A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326A3B3A-F8FE-4B59-8DE2-721D8CCE1A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326A3B3A-F8FE-4B59-8DE2-721D8CCE1A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326A3B3A-F8FE-4B59-8DE2-721D8CCE1A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326A3B3A-F8FE-4B59-8DE2-721D8CCE1A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
